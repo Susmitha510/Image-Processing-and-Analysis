@@ -27,8 +27,7 @@ To design, implement, and evaluate a complete digital image processing workflow 
 |------|--------------|
 | `IPA code.ipynb` | Jupyter Notebook containing full implementation and outputs |
 | `sunset.jpg` | Input image used for analysis |
-| `results/` | (Optional) Folder containing generated output images |
-| `report.pdf` | IEEE-formatted report summarizing the complete pipeline |
+
 
 ## ⚙️ How to Run
 ### In Google Colab
